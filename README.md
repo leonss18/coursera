@@ -17,4 +17,5 @@ https://datascience.duke.edu/alumni/
 
 * Markdown (code communication .. here :-) )
 * Gist (small code snippet)
-* 
+* Colab + Jupyter (my code in .ipynb files)
+* trick to image use here with Markdown
